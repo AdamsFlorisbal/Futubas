@@ -15,7 +15,7 @@
   Imagens do Projeto Login.
 </h4>
 
-<a href="https://imgur.com/q6a5WAW"><img src="https://i.imgur.com/q6a5WAW.png" title="source: imgur.com" /></a>
+<a href="/assets/login-futubas.png"><img src="/assets/login-futubas.png"/></a>
 
 ## :rocket: Tecnologias
 
