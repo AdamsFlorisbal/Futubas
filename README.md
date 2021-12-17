@@ -15,6 +15,8 @@
   Imagens do Projeto Login.
 </h4>
 
+-  [HOSPEDAGEM](https://jovial-hamilton-49167c.netlify.app/)
+
 <a href="/assets/login-futubas.png"><img src="/assets/login-futubas.png"/></a>
 
 ## :rocket: Tecnologias
@@ -33,9 +35,6 @@ Este projeto foi desenvolvido no decorrer dos meus estudos, com o propósito de 
 Para executar esta aplicação, você precisa do e [Yarn](https://yarnpkg.com/) ou maior instalados. Comandos:
 
 ```bash
-
-# Go into the repository
-$ cd react-login
 
 # Install dependencies
 $ yarn
